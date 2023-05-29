@@ -1,0 +1,7 @@
+[2023-05-29T13:02:23.303+0900] {processor.py:157} INFO - Started process (PID=83341) to work on /Users/iyeonjun/Desktop/Study/crawling/autotraining/airflow/dags/execute_data_storing.py
+[2023-05-29T13:02:23.303+0900] {processor.py:826} INFO - Processing file /Users/iyeonjun/Desktop/Study/crawling/autotraining/airflow/dags/execute_data_storing.py for tasks to queue
+[2023-05-29T13:02:23.303+0900] {logging_mixin.py:149} INFO - [2023-05-29T13:02:23.303+0900] {dagbag.py:541} INFO - Filling up the DagBag from /Users/iyeonjun/Desktop/Study/crawling/autotraining/airflow/dags/execute_data_storing.py
+[2023-05-29T13:02:23.310+0900] {processor.py:836} INFO - DAG(s) dict_keys(['dbsave_training']) retrieved from /Users/iyeonjun/Desktop/Study/crawling/autotraining/airflow/dags/execute_data_storing.py
+[2023-05-29T13:02:23.323+0900] {logging_mixin.py:149} INFO - [2023-05-29T13:02:23.323+0900] {dag.py:2726} INFO - Sync 1 DAGs
+[2023-05-29T13:02:23.570+0900] {logging_mixin.py:149} INFO - [2023-05-29T13:02:23.570+0900] {dag.py:3486} INFO - Setting next_dagrun for dbsave_training to 2023-05-29T06:00:00+00:00, run_after=2023-05-30T06:00:00+00:00
+[2023-05-29T13:02:23.577+0900] {processor.py:179} INFO - Processing /Users/iyeonjun/Desktop/Study/crawling/autotraining/airflow/dags/execute_data_storing.py took 0.274 seconds
